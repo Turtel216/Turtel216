@@ -21,3 +21,5 @@
 <a href="https://tailwindcss.com/"><img width="48" height="48" src="https://img.icons8.com/material-sharp/24/tailwind_css.png" alt="tailwind_css"/></a>
 <a href="https://react.dev/"><img width="40" height="40" src="https://img.icons8.com/officel/40/react.png" alt="react"/></a>
 <a href="https://expressjs.com/"><img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/></a>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Turtel216&show_icons=true&locale=en&layout=compact" alt="panagiotispapantonis" /></p>
