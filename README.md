@@ -1,7 +1,7 @@
 ## About me
 
 - 🎓 I'm currently studying Computer Science at the [University of Western Machedonia](https://www.uowm.gr/)
-- 🔭 Employed at the Laboritory for Enviromental Studies and conducting research as a member of the Operational Research Analysis Team of University Studies(ORATUS)
+- 🔭 Employed at the Laboratory of Enviromental Technologies and conducting research as a member of the Operational Research Analysis Team of University Studies(ORATUS)
 - 🌱 I’m currently learning backend development with a focus on Microservices
 
 ## 💬 Contact
