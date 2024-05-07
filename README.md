@@ -10,10 +10,9 @@
 
 
 ## ⚙️ Languages & Tools
-<a href="https://go.dev/"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height="40" width="50" /></a>
+<a href="https://go.dev/"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height="48" width="48" /></a>
 <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/></a>
 <a href="https://isocpp.org/"><img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/></a>
-<a href="https://kotlinlang.org/"><img width="48" height="38" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/></a>
 <a href="https://spring.io/projects/spring-boot"><img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/></a>
 <a href="https://www.mysql.com/"><img width="48" height="48" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"/></a>
@@ -21,7 +20,7 @@
 <a href="https://git-scm.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
 <a href="https://www.linux.org/"><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/></a>
 <a href="https://tailwindcss.com/"><img width="48" height="48" src="https://img.icons8.com/material-sharp/24/tailwind_css.png" alt="tailwind_css"/></a>
-<a href="https://react.dev/"><img width="40" height="40" src="https://img.icons8.com/officel/40/react.png" alt="react"/></a>
-<a href="https://expressjs.com/"><img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/></a>
+<a href="https://react.dev/"><img width="48" height="48" src="https://img.icons8.com/officel/40/react.png" alt="react"/></a>
+<a href="https://expressjs.com/"><img width="48" height="48" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Turtel216&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="panagiotispapantonis" /></p>
