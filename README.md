@@ -10,8 +10,8 @@
 
 
 ## ⚙️ Languages & Tools
-<a href="https://go.dev/"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height="48" width="48" /></a>
 <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html"><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/></a>
+<a href="https://go.dev/"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height="48" width="48" /></a>
 <a href="https://isocpp.org/"><img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/></a>
 <a href="https://spring.io/projects/spring-boot"><img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/></a>
