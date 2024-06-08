@@ -23,4 +23,4 @@
 <a href="https://react.dev/"><img width="48" height="48" src="https://img.icons8.com/officel/40/react.png" alt="react"/></a>
 <a href="https://expressjs.com/"><img width="48" height="48" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Turtel216&hide=html,css,cmake,kotlin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="panagiotispapantonis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Turtel216&hide=html,css,cmake&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="panagiotispapantonis" /></p>
