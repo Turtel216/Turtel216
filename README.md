@@ -14,7 +14,7 @@
 <a href="https://go.dev/"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height="48" width="48" /></a>
 <a href="https://isocpp.org/"><img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="42" height="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png" alt="typescript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="42" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png" alt="typescript"/></a>
 <a href="https://spring.io/projects/spring-boot"><img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/></a>
 <a href="https://react.dev/"><img width="48" height="48" src="https://img.icons8.com/officel/40/react.png" alt="react"/></a>
 <a href="https://nextjs.org/"><img width="48" height="48" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="next-js"/></a>
