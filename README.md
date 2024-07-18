@@ -25,4 +25,4 @@
 <a href="https://git-scm.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
 <a href="https://www.linux.org/"><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Turtel216&hide=html,css,cmake&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="panagiotispapantonis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Turtel216&hide=html,css,cmake&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="papakonstantinoudimitrios" /></p>
