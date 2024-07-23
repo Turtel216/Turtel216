@@ -17,5 +17,5 @@
 # 📊GitHub Stats :
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Turtel216&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Turtel216&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Turtel216&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css,cmake)
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Turtel216&hide=html,css,cmake,typescript&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="papakonstantinoudimitrios" /></p> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Turtel216&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css,cmake,typescript)
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Turtel216&hide=html,css,cmake,typescript&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="papakonstantinoudimitrios"/></p> -->
