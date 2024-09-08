@@ -6,7 +6,7 @@
 ## About me
 
 - I'm currently studying Informatics at the [University of Western Machedonia](https://www.uowm.gr/)
-- At the moment, I am mainly working on the [Xanadu programming language](https://github.com/Turtel216/Xanadu) and a [Golang load balancer](https://github.com/Turtel216/Golang-Loadbalancer)
+- At the moment, I am mainly working on the [Xanadu programming language](https://github.com/Turtel216/Xanadu) and the [Sinners-C programming language](https://github.com/Turtel216/Sinners-C)
 - I’m currently learning Compiler design and construction. 
 
 ## 🌐Socials
