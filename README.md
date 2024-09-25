@@ -6,7 +6,7 @@
 ## About me
 
 - I'm currently studying Informatics at the [University of Western Machedonia](https://www.uowm.gr/)
-- At the moment, I am mainly working on the [Xanadu programming language](https://github.com/Turtel216/Xanadu) and the [Sinners-C programming language](https://github.com/Turtel216/Sinners-C)
+- At the moment, I am mainly working on the [Xanadu programming language](https://github.com/Turtel216/Xanadu) and the [C-Moon Compiler](https://github.com/Turtel216/C-Moon)
 - I’m currently learning Compiler design and construction. 
 
 ## 🌐Socials
