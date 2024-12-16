@@ -7,7 +7,7 @@
 
 - I'm currently studying Informatics at the [University of Western Machedonia](https://www.uowm.gr/)
 <!-- - At the moment, I am mainly working on the [Xanadu programming language](https://github.com/Turtel216/Xanadu), the [C-Moon Compiler](https://github.com/Turtel216/C-Moon) and [Rust-OS](https://github.com/Turtel216/Rust-OS) -->
-- At the moment learning Programming Language Development and Backend Development 
+- At the moment I am learning Programming Language Development and Backend Development 
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrios-papakonstantinou-44a7672b3) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/UserID/turtel42) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/turtel216/)
