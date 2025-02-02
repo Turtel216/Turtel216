@@ -6,7 +6,7 @@
 ## About me
 
 - I'm currently studying Informatics at the [University of Western Machedonia](https://www.uowm.gr/)
-- At the moment, I am mainly working on the [micro-panel](https://github.com/Turtel216/micro-panel) and [LyriChord](https://github.com/Turtel216/LyriChord)
+- At the moment, I am mainly working on [micro-panel](https://github.com/Turtel216/micro-panel) and [LyriChord](https://github.com/Turtel216/LyriChord)
 - I am learning Backend Engineering and Compiler Engineering
 
 ## 🌐Socials
