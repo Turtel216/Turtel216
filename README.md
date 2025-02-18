@@ -7,7 +7,7 @@
 
 - I am studying Informatics at the [University of Western Machedonia](https://www.uowm.gr/)
 - At the moment, I am mainly working on [micro-panel](https://github.com/Turtel216/micro-panel) and [LyriChord](https://github.com/Turtel216/LyriChord)
-- I am currently learning Backend Engineering and Distributed Systems
+- I am currently learning Embedded RTOS
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrios-papakonstantinou-44a7672b3) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/UserID/turtel42)
