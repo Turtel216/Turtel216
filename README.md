@@ -6,7 +6,7 @@
 ## About me
 
 - I am studying Informatics at the [University of Western Machedonia](https://www.uowm.gr/)
-- At the moment, I am mainly working on the [C-Moon](https://github.com/Turtel216/C-Moon) compiler and [LyriChord](https://github.com/Turtel216/LyriChord)
+- At the moment, I am mainly working on the [Beavieeer](https://github.com/Turtel216/Beavieeer) programming language and [LyriChord](https://github.com/Turtel216/LyriChord)
 - I am currently learning Embedded RTOS
 
 ## 🌐Socials
