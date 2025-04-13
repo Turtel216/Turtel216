@@ -6,7 +6,7 @@
 ## About me
 
 - I am studying Informatics at the [University of Western Machedonia](https://www.uowm.gr/)
-- At the moment, I am mainly working on the tuskRTOS](https://github.com/Turtel216/tuskRTOS) and [VanaOS](https://github.com/Turtel216/VanaOS)
+- At the moment, I am mainly working on the [tuskRTOS](https://github.com/Turtel216/tuskRTOS) and [VanaOS](https://github.com/Turtel216/VanaOS)
 - I am currently learning Embedded RTOS
 
 ## 🌐Socials
